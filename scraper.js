@@ -23,7 +23,7 @@ const puppeteer = require('puppeteer');
                const page = await browser.newPage();
 
                //Initializing download path for the PDF
-               const downloadPath = path.resolve("./Invoices");
+               const downloadPath = path.resolve("./");
                await page._client.send("Page.setDownloadBehavior", {
                  behavior: "allow",
                  downloadPath: downloadPath,
