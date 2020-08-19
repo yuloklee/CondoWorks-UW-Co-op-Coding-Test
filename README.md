@@ -1,8 +1,8 @@
 # CondoWorks-UW-Co-op-Coding-Test
-Created by Joshua Lee
+Created by Joshua Lee <br />
 j763lee@uwaterloo.ca
 
-##Build Instructions
+## Build Instructions
 
 1. Install puppeteer
 ```
